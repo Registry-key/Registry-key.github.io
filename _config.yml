@@ -61,6 +61,9 @@ footer-text: Copyright (c) 2024 Registry-key
 # You can find your shortname on the Settings page of your Disqus account
 disqus: # fromendworld
 
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: G-J6HY0715Z0
+
 # Gitalk
 gitalk:
   clientID: Ov23liFVLFS4dAdYT7OO
