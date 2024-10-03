@@ -1,14 +1,12 @@
 ---
 layout: post
 title: "A Letter to xys."
-date:   2016-2-16
+date:   2024-10-1
 tags: [notice]
 comments: true
 author: Vichar_rk
 ---
 
-
-![](https://img.picui.cn/free/2024/06/10/66671b1b43a1e.jpg)
 
 xys，我好喜欢你呀。。。
 
